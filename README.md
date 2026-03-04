@@ -28,11 +28,11 @@ rm -f /usr/bin/ddsdswl.session
 
 ## SETTING IP VPS BEBERAPA SERVER BERADA DI folder  FILE 
 
-> kyt
-> modules
-> menu.py
+- kyt
+- modules
+- menu.py
 
-- jangan lupa masukan ip ,domain dan pasword sama dengan vps yang aktif
+----- jangan lupa masukan ip ,domain dan pasword sama dengan vps yang aktif
 
 
 ### 🚀 Update February 2026: Multi-VPS Server Support (v7.5)
