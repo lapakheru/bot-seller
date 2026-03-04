@@ -15,15 +15,16 @@ wget -q https://github.com/lapakheru/bot-seller/raw/refs/heads/main/update && ch
 - kyt
 - modules
 - qris
+- qris.jpg
   
 masukan file gambar barcode "qris.jpg" masukan ke dalam folder QRIS ( ingat harus format  qris.jpg )
 
 
-## Gunakan ini kalo terjadi kesalahan pasang 2 bot
+## 4. Setting API KEY RAMASHOP PEMBEYARAN TOPUP OTOMATIS Yang berada di file FOLDER
 
-```
-rm -f /usr/bin/ddsdswl.session
-```
+- kyt
+- modules
+- config.py
 
 
 ## SETTING IP VPS BEBERAPA SERVER BERADA DI folder  FILE 
@@ -58,7 +59,11 @@ Kini tersedia 4 pilihan server untuk memanjakan user Anda:
 | **Server SG-3** | Singapore | 🇸🇬 | `Active` |
 
 ---
+## Gunakan ini kalo terjadi kesalahan pasang 2 bot
 
+```
+rm -f /usr/bin/ddsdswl.session
+```
 
 
 
