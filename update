@@ -7,7 +7,7 @@
 # 1. Install tool dasar
 apt-get update -y > /dev/null 2>&1
 apt-get install ruby zip unzip wget curl -y > /dev/null 2>&1
-pip3 install paramiko
+
 # 2. Install lolcat jika belum ada
 if ! command -v lolcat &> /dev/null; then
     gem install lolcat &> /dev/null
@@ -130,7 +130,7 @@ echo -e "━━━━━━━━━━━━━━━━━━━━━━━�
 echo -e " \e[1;97;101m      INSTALLER KYT PANEL            \e[0m"
 echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" | lolcat
 echo -e ""
-echo -e "  \033[1;91m Source: Github Borneo SSH\033[1;37m"
+echo -e "  \033[1;91m Source: Github Hokage Legend\033[1;37m"
 echo -e "  \033[1;91m Target: /usr/bin/kyt/\033[1;37m"
 
 # Jalankan fungsi utama
