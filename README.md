@@ -26,9 +26,16 @@ rm -f /usr/bin/ddsdswl.session
 ```
 
 
+## SETTING IP VPS BEBERAPA SERVER BERADA DI folder  FILE 
+
+>>> kyt
+>>> modules
+>>> menu.py
+
+- jangan lupa masukan ip ,domain dan pasword sama dengan vps yang aktif
 
 
-# 🚀 Update February 2026: Multi-VPS Server Support (v7.5)
+### 🚀 Update February 2026: Multi-VPS Server Support (v7.5)
 
 Fitur terbaru telah hadir! Kini **Bot Premium Management** mendukung integrasi **Multi-VPS Server**. Anda dapat mengelola pembuatan akun VPN di berbagai lokasi server hanya melalui satu Bot pusat secara otomatis.
 
