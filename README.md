@@ -35,6 +35,28 @@ masukan file gambar barcode "qris.jpg" masukan ke dalam folder QRIS ( ingat haru
 
 ----- jangan lupa masukan ip ,domain dan pasword sama dengan vps yang aktif
 
+## AGAR USER BISA MEMILIH SERVER UBAH BAGIAN MASING MASING FILE :
+- SSH
+- VMESS
+- VLESS
+- TROJAN
+  
+## CARI BAGIAN
+  
+   --- EKSEKUSI REMOTE (SG1, SG2, SG3) VIA PARAMIKO ---
+  
+if pilihan_server == "srv_sg1":
+                            remote_ip = "ISI IP"
+                            remote_pass = "ISI PASWORD"
+                            domain_hasil = "ISI DOMAIN"
+                        elif pilihan_server == "srv_sg2":
+                            remote_ip = "ISI IP"
+                            remote_pass = "ISI PASWORD"
+                            domain_hasil = "ISI DOMAIN"
+                        elif pilihan_server == "srv_sg3":
+                            remote_ip = "ISI IP"
+                            remote_pass = "ISI PASSWORD"
+                            domain_hasil = "ISI DOMAIN"
 
 ### 🚀 Update February 2026: Multi-VPS Server Support (v7.5)
 
